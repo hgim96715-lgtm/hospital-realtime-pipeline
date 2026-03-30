@@ -206,7 +206,7 @@ hospital-project/
 
 ## 📈 대시보드 시각화 결과
 
-![[hospital-final.jpg]]
+![대시보드](hospital-final.jpg)
 
 
 
